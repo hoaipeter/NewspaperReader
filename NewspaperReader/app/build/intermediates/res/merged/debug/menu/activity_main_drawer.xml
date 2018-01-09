@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_trangchu"
+            android:icon="@drawable/ic_home"
+            android:title="Trang chủ" />
+        <item android:id="@+id/nav_thoisu"
+            android:title="Thời sự" />
+
+        <item android:id="@+id/nav_thegioi"
+            android:title="Thế giới" />
+        <item android:id="@+id/nav_giaitri"
+            android:title="Giải trí" />
+        <item android:id="@+id/nav_phapluat"
+            android:title="Pháp luật" />
+        <item android:id="@+id/nav_giaoduc"
+            android:title="Giáo dục" />
+        <item android:id="@+id/nav_suckhoe"
+            android:title="Sức khoẻ" />
+        <item android:id="@+id/nav_kh"
+            android:title="Khoa học" />
+        <item android:id="@+id/nav_shoa"
+            android:title="Số hoá" />
+        <item android:id="@+id/nav_cdong"
+            android:title="Cộng đồng" />
+        <item android:id="@+id/nav_tsu"
+            android:title="Tâm sự" />
+        <item android:id="@+id/nav_otoxemay"
+            android:title="Ôtô - xe máy" />
+    </group>
+
+</menu>
